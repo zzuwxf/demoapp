@@ -217,7 +217,7 @@ app/views/layouts
 app/helpers
   Holds view helpers that should be named like weblogs_helper.rb. These are
   generated for you automatically when using generators for controllers.
-  Helpers can be used to wrap functionality for your views into methods.
+  Helpers can be used to wrap functionality for your views into methods--test.
 
 config
   Configuration files for the Rails environment, the routing map, the database,
